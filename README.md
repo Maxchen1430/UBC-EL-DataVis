@@ -5,3 +5,7 @@ This repository includes my Exploratory Data Analysis and Final Project for the 
 For this project, I was given the subset of Vancouver street trees data set, provided by The City of Vancouver, which includes all relevant information of trees on the streets within the city. I compiled and worked through an **Exploratory Data Analysis** first, wrangling the data set and compiling different graphics and visualizations, before officially finalizing an **interactive dashboard in the Final Project** file. I proposed four questions of interest and seeked to answer them through said EDA and graphical repesentations of my findings; some of the visualizations that I have consturcted within the project includes stacked and unstacked bar charts with tooltip function, a box plot, a scatterplot with a dropdown menu and varing opacity, etc. 
 
 For more details, please download and open the HTML and Jupyter Notebook (or zip file that contains both for Exploratory Data Analysis) files. The HTML might be easier to view should you not have Anaconda or Jupyter Notebook installed on your device. 
+
+## Medium Article Link
+For a cleaner and more streamlined reading experience, please visit my Medium article via this link: 
+https://medium.com/@maxchen1430/vancouver-street-trees-e07a24b3d063 
